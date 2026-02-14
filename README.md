@@ -1,4 +1,4 @@
-# Exercise-02d-Scenes-And-Menus
+# Project02- 2D Arcade Space Shooter
 
 Exercise for MSCH-C220
 
@@ -23,4 +23,12 @@ None
 ## Created by
 
 Jake Dixon
+
+
+
+extra points
+
+* added background image
+
+
 
